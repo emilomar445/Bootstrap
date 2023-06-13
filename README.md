@@ -1,2 +1,0 @@
-# Bootstrap
-index.html
